@@ -17,9 +17,9 @@ There are three characters to choose from, each with different speeds and missil
 
 Depending on your choices, you get a different ending.
 
-> ~30 different endings
-> 3 characters
-> 4 pick-up items
-> 1 skull
+* ~30 different endings
+* 3 characters
+* 4 pick-up items
+* 1 skull
 
 The game also features a constantly scrolling background, added sound effects, art, and music.
